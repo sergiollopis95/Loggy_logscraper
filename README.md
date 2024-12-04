@@ -17,18 +17,31 @@ It extracts specific patterns and outputs the results in a structured format for
 ---
 
 ## USAGE INSTRUCTIONS
-1. **Run the Script**:
-   - Double-click `run_loggy.bat` in the extracted folder.
 
-2. **Provide Input**:
-   - The script will prompt you to enter the directory containing log files.
-   - Example: `C:\Path\To\Your\LogFiles`.
+### 1. Clone or Download Files
+- Clone the repository to your local machine using Git:
+  ```bash
+  git clone <repository_url>
+  ```
+- Or download the repository as a `.zip` file and extract it.
 
-3. **Output Files**:
-   - Results are saved in a newly created folder (e.g., `2024-11-28_14-30-00`) located in the same directory as the script.
-   - This folder contains:
-     - `structured_output.txt`: Extracted data in a tabular format.
-     - `script_execution.txt`: Detailed log of the script's execution.
+### 2. Run the Script
+- Navigate to the extracted folder.
+- Double-click `run_loggy.bat` to start the script.
+
+### 3. Provide Input
+- When prompted, enter the directory path containing your log files.
+  - Example:
+    ```
+    C:\Path\To\Your\LogFiles
+    ```
+
+### 4. View Output
+- The script creates a new folder in the same directory as the script, named with a timestamp (e.g., `2024-11-28_14-30-00`).
+- This folder contains:
+  - **`structured_output.txt`**: Extracted data in a tabular format.
+  - **`script_execution.txt`**: A detailed log of the script's execution.
+
 
 ---
 
