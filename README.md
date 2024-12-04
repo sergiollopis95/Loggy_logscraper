@@ -4,6 +4,8 @@
 The Log Scraper Tool is a PowerShell script designed to analyze log files efficiently.  
 It extracts specific patterns and outputs the results in a structured format for easy analysis.
 
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/d477c0a7-25e5-46b5-a221-0331844c855f">
+
 ---
 
 ## FEATURES
